@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\bin\Debug\net9.0\TiposDeReferencia4.exe
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\bin\Debug\net9.0\TiposDeReferencia4.deps.json
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\bin\Debug\net9.0\TiposDeReferencia4.runtimeconfig.json
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\bin\Debug\net9.0\TiposDeReferencia4.dll
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\bin\Debug\net9.0\TiposDeReferencia4.pdb
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.AssemblyInfo.cs
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.dll
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\refint\TiposDeReferencia4.dll
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.pdb
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\TiposDeReferencia4.genruntimeconfig.cache
+C:\Users\pc\Documents\Csharp\CSFundamentos\TiposDeReferencia4\obj\Debug\net9.0\ref\TiposDeReferencia4.dll
